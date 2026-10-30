@@ -1,0 +1,11 @@
+#!name=localdevvpn
+#!author=njzydark
+#!homepage=https://github.com/njzydark/network-plugins
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Loop.png
+
+[General]
+ipv6-vif = off
+include-tun = 10.7.0.1/32
+
+[IP Rewrite]
+10.7.0.1 = reflect
