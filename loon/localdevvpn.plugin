@@ -1,4 +1,5 @@
-#!name=localdevvpn
+#!name=LocalDevVPN
+#!desc=LocalDevVPN
 #!author=njzydark
 #!homepage=https://github.com/njzydark/network-plugins
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Loop.png
